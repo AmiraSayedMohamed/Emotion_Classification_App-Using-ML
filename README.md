@@ -42,8 +42,8 @@ https://emotionclassificationapp-using-ml-isipebgcurlrtdqfqksayg.streamlit.app/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/emotion-classification.git
-cd emotion-classification
+git clone https://github.com/AmiraSayedMohamed/Emotion_Classification_App-Using-ML.git
+cd Emotion_Classification_App-Using-ML
 
 
 

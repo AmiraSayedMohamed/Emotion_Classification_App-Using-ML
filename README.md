@@ -1,4 +1,5 @@
 # Emotion Classification with Deep Learning 🤖💥
+![Alt text](https://github.com/AmiraSayedMohamed/Emotion_Classification_App-Using-ML/blob/master/Imgtest.jpg)
 
 Welcome to the **Emotion Classification Project**! 🎉
 
